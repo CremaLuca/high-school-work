@@ -6,7 +6,7 @@ Projects, scripts, and other resources I produced in high school.
 
 Most of my work in high school has been done in Java.
 
-### [Slot machine](https://github.com/Acerkacke/SlotMachine) - Feb-Mar 2016 - @fedatodavide @kawkabwassim
+### [Slot machine](https://github.com/Acerkacke/SlotMachine) - Feb-Mar 2016 - [@Davidefedato](https://github.com/Davidefedato) [@kawkabwassim](https://github.com/kawkabwassim)
 
 Threads exercise.
 When the lever on the graphics interface gets clicked the three wheels start spinning for a random amount of time, with the first one from the left stopping first, and the one on right last.
@@ -21,7 +21,7 @@ A graphics interface lets you order a list of pizzas which are put in the oven t
 The target was to control the oven making sure it is fully exploited and that it doesn't exceed the maximum amount of pizzas.
 
 
-### [Supermarket](https://github.com/Acerkacke/Prodotti-Grafica) - Jan 2016 - @davidenardi
+### [Supermarket](https://github.com/Acerkacke/Prodotti-Grafica) - Jan 2016 - [@davidenardi](https://github.com/davidenardi)
 
 Excercise on file saving and loading.
 The supermarket UI lets you choose a list of products and store them in a temporary cart. When a new product is added the cart gets automatically saved in a file.
