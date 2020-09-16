@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Acchiappa La Talpa</string>
+    <string name="PuntiText">Punti</string>
+    <string name="timeLeft">Tempo rimanente</string>
+    <string name="MenuTitle">Acchiappa La Talpa!</string>
+    <string name="Play10">Gioca 10 Secondi</string>
+    <string name="StartIn">Cominci in</string>
+    <string name="Play20">Gioca 20 Secondi</string>
+    <string name="Play30">Gioca 30 Secondi</string>
+</resources>

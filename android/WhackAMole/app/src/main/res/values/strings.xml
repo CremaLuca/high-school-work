@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Whack A Mole</string>
+    <string name="PuntiText">Score</string>
+    <string name="timeLeft">Time left</string>
+    <string name="MenuTitle">Whack A Mole!</string>
+    <string name="Play10">Play 10 seconds</string>
+    <string name="Play20">Play 20 seconds</string>
+    <string name="Play30">Play 30 seconds</string>
+    <string name="StartIn">Starting in</string>
+</resources>
